@@ -3,3 +3,4 @@ whisper
 pyttsx3
 pyaudio
 SpeechRecognition
+python-dotenv
